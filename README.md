@@ -1,2 +1,2 @@
-# DiceGame
- The player then rolls a six-sided die. If the number rolled is strictly greater than the target number, the player wins the round. Otherwise, they lose.
+# DiceGame 
+The game begins by randomly selecting a target number between 1 and 5 (inclusive). The player then rolls a six-sided die. If the number rolled is strictly greater than the target number, the player wins the round. Otherwise, they lose. After each round, the player is prompted to decide whether they would like to play again. If they choose to continue, the game repeats with a newly selected target number. If they decline, the game terminates.
